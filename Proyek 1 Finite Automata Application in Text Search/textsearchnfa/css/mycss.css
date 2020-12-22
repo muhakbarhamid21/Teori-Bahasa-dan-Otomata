@@ -1,0 +1,49 @@
+.btn1{
+    border: none;
+    outline: none;
+    height: 50px;
+    width: 100%;
+    background-color: rgb(255, 103, 204);
+    color: white;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.btn1:hover{
+    background-color: white;
+    border: 1px solid;
+    color: rgb(255, 103, 204);
+}
+
+.navbar{
+  background-color: white !important;
+}
+
+.colink{
+  background-color: white;
+  outline: none;
+  border: none;
+}
+
+.colink:hover{
+  background-color: white;
+  border: 1px solid;
+}
+
+.p1{
+  text-align: center;
+  color: white;
+}
+
+.error{
+  background-color: #f2dede;
+  color: #a94442;
+  padding: 10px;
+  width: 95%;
+  border-radius: 5px;
+  margin: 20px auto;
+}
+
+.center{
+  text-align: center;
+}
