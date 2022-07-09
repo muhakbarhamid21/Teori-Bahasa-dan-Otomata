@@ -1,2 +1,1 @@
-# tbo
-Teori Bahasa dan Otomata
+# Teori Bahasa dan Otomata (TBO)
